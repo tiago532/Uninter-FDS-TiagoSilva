@@ -1,0 +1,14 @@
+            body {background-color: #e6ffea;}
+            h1 {color: darkolivegreen;}
+            h2 {color: darkolivegreen;}
+            h1 {text-align: center;}
+            p {font-size: 20px;
+            text-align: justify;}
+            li {margin-bottom: 6px;}
+            table {border-collapse: collapse}
+            th, td {border: 1px solid #ddd;
+            padding: 8px;
+        text-align: left;
+    background-color: #cee7d1}
+            img {border-radius: 10px;}
+            a:hover {color: red;}
