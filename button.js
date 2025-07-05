@@ -1,5 +1,5 @@
 function click() {
-  let botao = document.querySelector("meuBotao");
+  let botao = document.getElementById("meuBotao");
   let h2 = document.createElement("h2");
   let text = "A vida é como andar de bicicleta. Para se manter equilibrado, é preciso seguir em frente. - Albert Einstein.";
 
