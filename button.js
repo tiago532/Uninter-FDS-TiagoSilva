@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded",
     function () {
         const botao =
-        documentElementById("meuBotao");
+        document.getElementById("meuBotao");
 
         botao.addEventListener("click", function
             () {
